@@ -1,9 +1,20 @@
-cmake_minimum_required(VERSION 3.29)
-project(fibonacci_heap)
+cmake_minimum_required(VERSION 3.10)
+project(FibonacciRoutingSimulation)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall -Wextra -O2")
 
-include_directories(.)
-include_directories(.idea)
+# Añade los archivos fuente
+add_executable(sim
+        main.cpp
+        SimulationScenario.cpp
+        SimulationScenario.h
+        Graph.h
+        Router.h
+        FibonacciHeap.h
+)
 
-add_executable(fibonacci_heap main.cpp)
+# Incluye los headers
+target_include_directories(sim PRIVATE
+        ${CMAKE_CURRENT_SOURCE_DIR}
+)

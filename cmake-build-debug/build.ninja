@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: fibonacci_heap
+# Project: FibonacciRoutingSimulation
 # Configurations: Debug
 # =============================================================================
 
@@ -41,38 +41,45 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/cosea/CLionProjects/AED/fibonacci_heap/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target fibonacci_heap
+# Object build statements for EXECUTABLE target sim
 
 
 #############################################
-# Order-only phony target for fibonacci_heap
+# Order-only phony target for sim
 
-build cmake_object_order_depends_target_fibonacci_heap: phony || .
+build cmake_object_order_depends_target_sim: phony || .
 
-build CMakeFiles/fibonacci_heap.dir/main.cpp.obj: CXX_COMPILER__fibonacci_heap_unscanned_Debug C$:/Users/cosea/CLionProjects/AED/fibonacci_heap/main.cpp || cmake_object_order_depends_target_fibonacci_heap
-  DEP_FILE = CMakeFiles\fibonacci_heap.dir\main.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/cosea/CLionProjects/AED/fibonacci_heap/. -IC:/Users/cosea/CLionProjects/AED/fibonacci_heap/.idea
-  OBJECT_DIR = CMakeFiles\fibonacci_heap.dir
-  OBJECT_FILE_DIR = CMakeFiles\fibonacci_heap.dir
+build CMakeFiles/sim.dir/main.cpp.obj: CXX_COMPILER__sim_unscanned_Debug C$:/Users/cosea/CLionProjects/AED/fibonacci_heap/main.cpp || cmake_object_order_depends_target_sim
+  DEP_FILE = CMakeFiles\sim.dir\main.cpp.obj.d
+  FLAGS = -Wall -Wextra -O2 -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/cosea/CLionProjects/AED/fibonacci_heap
+  OBJECT_DIR = CMakeFiles\sim.dir
+  OBJECT_FILE_DIR = CMakeFiles\sim.dir
+
+build CMakeFiles/sim.dir/SimulationScenario.cpp.obj: CXX_COMPILER__sim_unscanned_Debug C$:/Users/cosea/CLionProjects/AED/fibonacci_heap/SimulationScenario.cpp || cmake_object_order_depends_target_sim
+  DEP_FILE = CMakeFiles\sim.dir\SimulationScenario.cpp.obj.d
+  FLAGS = -Wall -Wextra -O2 -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/cosea/CLionProjects/AED/fibonacci_heap
+  OBJECT_DIR = CMakeFiles\sim.dir
+  OBJECT_FILE_DIR = CMakeFiles\sim.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target fibonacci_heap
+# Link build statements for EXECUTABLE target sim
 
 
 #############################################
-# Link the executable fibonacci_heap.exe
+# Link the executable sim.exe
 
-build fibonacci_heap.exe: CXX_EXECUTABLE_LINKER__fibonacci_heap_Debug CMakeFiles/fibonacci_heap.dir/main.cpp.obj
-  FLAGS = -g
+build sim.exe: CXX_EXECUTABLE_LINKER__sim_Debug CMakeFiles/sim.dir/main.cpp.obj CMakeFiles/sim.dir/SimulationScenario.cpp.obj
+  FLAGS = -Wall -Wextra -O2 -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\fibonacci_heap.dir
+  OBJECT_DIR = CMakeFiles\sim.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = fibonacci_heap.exe
-  TARGET_IMPLIB = libfibonacci_heap.dll.a
-  TARGET_PDB = fibonacci_heap.exe.dbg
+  TARGET_FILE = sim.exe
+  TARGET_IMPLIB = libsim.dll.a
+  TARGET_PDB = sim.exe.dbg
 
 
 #############################################
@@ -100,7 +107,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build fibonacci_heap: phony fibonacci_heap.exe
+build sim: phony sim.exe
 
 # =============================================================================
 # Folder targets.
@@ -110,7 +117,7 @@ build fibonacci_heap: phony fibonacci_heap.exe
 #############################################
 # Folder: C:/Users/cosea/CLionProjects/AED/fibonacci_heap/cmake-build-debug
 
-build all: phony fibonacci_heap.exe
+build all: phony sim.exe
 
 # =============================================================================
 # Built-in targets
