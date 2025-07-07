@@ -1,3 +1,16 @@
-Ruta base 1 -> 6 | Tiempo: 9 | Ruta: 1 2 3 6 
-Tras congestión 2-3 | Tiempo: 10 | Ruta: 1 4 5 6 
-Emergencia 5-6 | Tiempo: 5 | Ruta: 1 4 5 6 
+Escenario 1: Ruta base
+  Tiempo FiboHeap: 6729us | Tiempo BinaryHeap: 2018us
+  Ruta: 1 274 6 | Costo: 2
+
+Escenario 2: Congestión en la ruta 2-3
+  Tiempo FiboHeap: 6814us | Tiempo BinaryHeap: 1313us
+  Ruta: 1 274 6 | Costo: 2
+
+Escenario 3: Emergencia en la ruta 5-6
+  Tiempo FiboHeap: 7203us | Tiempo BinaryHeap: 1623us
+  Ruta: 1 274 6 | Costo: 2
+
+Escenario 4: Congestión combinada 1-2 y 4-5
+  Tiempo FiboHeap: 5079us | Tiempo BinaryHeap: 1085us
+  Ruta: 1 274 6 | Costo: 2
+

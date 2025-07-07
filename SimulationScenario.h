@@ -5,3 +5,4 @@
 
 void load_graph(Graph& g, const std::string& filename);
 void simulate_scenarios(Graph& g, Router& router);
+void simulate_many_dijkstra(Graph& g);

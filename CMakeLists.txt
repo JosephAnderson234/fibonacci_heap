@@ -12,6 +12,7 @@ add_executable(sim
         Graph.h
         Router.h
         FibonacciHeap.h
+        BinaryHeap.h
 )
 
 # Incluye los headers
