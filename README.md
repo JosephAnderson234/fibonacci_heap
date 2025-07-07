@@ -55,8 +55,7 @@ Emergencia 5-6 | Tiempo: 5 | Ruta: 1 4 5 6
 ```
 
 ---
-Perfecto. Aquí tienes una sección detallada que **explica el enfoque algorítmico**, el **modelo de simulación** y **analiza el comportamiento del sistema a partir del output generado**, todo integrado como parte del README.
-
+Detalle que **explica el enfoque algorítmico**, el **modelo de simulación** y **analiza el comportamiento del sistema a partir del output generado**.
 ---
 
 ## 🧠 Enfoque y Resolución del Problema
