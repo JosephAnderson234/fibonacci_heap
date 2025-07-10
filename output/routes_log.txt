@@ -1,16 +1,15 @@
 Escenario 1: Ruta base
-  Tiempo FiboHeap: 6729us | Tiempo BinaryHeap: 2018us
+  Tiempo FiboHeap: 4439us | Tiempo BinaryHeap: 1134us
   Ruta: 1 274 6 | Costo: 2
 
 Escenario 2: Congestión en la ruta 2-3
-  Tiempo FiboHeap: 6814us | Tiempo BinaryHeap: 1313us
+  Tiempo FiboHeap: 5194us | Tiempo BinaryHeap: 1046us
   Ruta: 1 274 6 | Costo: 2
 
 Escenario 3: Emergencia en la ruta 5-6
-  Tiempo FiboHeap: 7203us | Tiempo BinaryHeap: 1623us
+  Tiempo FiboHeap: 3968us | Tiempo BinaryHeap: 976us
   Ruta: 1 274 6 | Costo: 2
 
 Escenario 4: Congestión combinada 1-2 y 4-5
-  Tiempo FiboHeap: 5079us | Tiempo BinaryHeap: 1085us
+  Tiempo FiboHeap: 6478us | Tiempo BinaryHeap: 1860us
   Ruta: 1 274 6 | Costo: 2
-

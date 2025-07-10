@@ -28,11 +28,11 @@ void log_result(ofstream& log, const string& title, const PathResult& res, long 
 	log << "| Costo: " << res.total_cost << "\n\n";
 }
 
-void simulate_scenarios(Graph& g, Router& router) {
+void simulate_scenarios(Graph& g) {
 	ofstream log("output/routes_log.txt");
 
 	auto simulate = [&](const string& title) {
-		auto g_fibo = g; // copia del grafo
+		auto g_fibo = g;
 		auto g_bin = g;
 
 		Router routerFibo(g_fibo);
@@ -52,18 +52,18 @@ void simulate_scenarios(Graph& g, Router& router) {
 		log_result(log, title, res_fibo, dur_fibo, dur_bin);
 	};
 
-	// Escenario 1: Ruta base
+
 	simulate("Escenario 1: Ruta base");
 
-	// Escenario 2: Congestión en la ruta 2-3
+
 	g.updateEdgeWeight(2, 3, 10);
 	simulate("Escenario 2: Congestión en la ruta 2-3");
 
-	// Escenario 3: Emergencia en la ruta 5-6
+
 	g.updateEdgeWeight(5, 6, 1);
 	simulate("Escenario 3: Emergencia en la ruta 5-6");
 
-	// Escenario 4: Congestión generalizada
+
 	g.updateEdgeWeight(1, 2, 7);
 	g.updateEdgeWeight(4, 5, 10);
 	simulate("Escenario 4: Congestión combinada 1-2 y 4-5");
@@ -74,13 +74,12 @@ void simulate_scenarios(Graph& g, Router& router) {
 void simulate_many_dijkstra(Graph& g) {
 	ofstream log("output/performance_comparison.txt");
 
-	// Obtener nodos existentes reales
 	vector<int> nodes;
 	for (auto& p : g.adj) {
 		nodes.push_back(p.first);
 	}
 
-	// Generar 100 rutas aleatorias entre nodos del grafo
+
 	vector<pair<int, int>> test_cases;
 	mt19937 rng(time(nullptr));
 	uniform_int_distribution<int> dist(0, nodes.size() - 1);
@@ -95,7 +94,7 @@ void simulate_many_dijkstra(Graph& g) {
 	for (int i = 0; i < test_cases.size(); ++i) {
 		auto [src, dst] = test_cases[i];
 
-		// Usar el mismo grafo, no es necesario copiarlo
+
 		Router routerFibo(g);
 		Router routerBin(g);
 

@@ -15,6 +15,7 @@ add_executable(sim
         BinaryHeap.h
 )
 
+add_executable(test prueba.cpp FibonacciHeap.h)
 # Incluye los headers
 target_include_directories(sim PRIVATE
         ${CMAKE_CURRENT_SOURCE_DIR}

@@ -25,6 +25,9 @@ class FibonacciHeap {
 	Node* root_list = nullptr;
 
 
+
+
+
 	void merge_with_root_list(Node* node) {
 		if (root_list == nullptr) {
 			root_list = node;
@@ -236,6 +239,7 @@ public:
             min = x;
         }
 	}
+
 	void delete_node(Node* x) {
         decrease_key(x, INT_MIN);
         delete extract_min();

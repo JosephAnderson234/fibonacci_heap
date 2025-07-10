@@ -1,3 +1,4 @@
 C:/Users/cosea/CLionProjects/AED/fibonacci_heap/cmake-build-debug/CMakeFiles/sim.dir
+C:/Users/cosea/CLionProjects/AED/fibonacci_heap/cmake-build-debug/CMakeFiles/test.dir
 C:/Users/cosea/CLionProjects/AED/fibonacci_heap/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/cosea/CLionProjects/AED/fibonacci_heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,400 +1,400 @@
-Ruta Aleatoria 1: 401 → 49
-  Tiempo FiboHeap: 2293us | Tiempo BinaryHeap: 10012us
-  Ruta: 401 99 49 | Costo: 2
-
-Ruta Aleatoria 2: 400 → 266
-  Tiempo FiboHeap: 5420us | Tiempo BinaryHeap: 2379us
-  Ruta: 400 103 266 | Costo: 2
-
-Ruta Aleatoria 3: 410 → 233
-  Tiempo FiboHeap: 7812us | Tiempo BinaryHeap: 7458us
-  Ruta: 410 237 233 | Costo: 2
-
-Ruta Aleatoria 4: 166 → 419
-  Tiempo FiboHeap: 7805us | Tiempo BinaryHeap: 10445us
-  Ruta: 166 419 | Costo: 2
-
-Ruta Aleatoria 5: 322 → 187
-  Tiempo FiboHeap: 2000us | Tiempo BinaryHeap: 6854us
-  Ruta: 322 163 187 | Costo: 2
-
-Ruta Aleatoria 6: 144 → 271
-  Tiempo FiboHeap: 5029us | Tiempo BinaryHeap: 4868us
-  Ruta: 144 132 271 | Costo: 2
-
-Ruta Aleatoria 7: 461 → 313
-  Tiempo FiboHeap: 1859us | Tiempo BinaryHeap: 1052us
-  Ruta: 461 313 | Costo: 1
-
-Ruta Aleatoria 8: 456 → 496
-  Tiempo FiboHeap: 13852us | Tiempo BinaryHeap: 19577us
-  Ruta: 456 123 426 496 | Costo: 3
-
-Ruta Aleatoria 9: 166 → 93
-  Tiempo FiboHeap: 5871us | Tiempo BinaryHeap: 10761us
-  Ruta: 166 130 93 | Costo: 2
-
-Ruta Aleatoria 10: 379 → 64
-  Tiempo FiboHeap: 5705us | Tiempo BinaryHeap: 4063us
-  Ruta: 379 96 64 | Costo: 2
-
-Ruta Aleatoria 11: 118 → 398
-  Tiempo FiboHeap: 4907us | Tiempo BinaryHeap: 9802us
-  Ruta: 118 421 398 | Costo: 2
-
-Ruta Aleatoria 12: 274 → 13
-  Tiempo FiboHeap: 17139us | Tiempo BinaryHeap: 17863us
-  Ruta: 274 61 13 | Costo: 3
-
-Ruta Aleatoria 13: 424 → 286
-  Tiempo FiboHeap: 8143us | Tiempo BinaryHeap: 11698us
-  Ruta: 424 286 | Costo: 2
-
-Ruta Aleatoria 14: 433 → 469
-  Tiempo FiboHeap: 14464us | Tiempo BinaryHeap: 2675us
-  Ruta: 433 347 469 | Costo: 2
-
-Ruta Aleatoria 15: 458 → 454
-  Tiempo FiboHeap: 17337us | Tiempo BinaryHeap: 12041us
-  Ruta: 458 31 454 | Costo: 3
-
-Ruta Aleatoria 16: 238 → 410
-  Tiempo FiboHeap: 8405us | Tiempo BinaryHeap: 3688us
-  Ruta: 238 412 410 | Costo: 2
-
-Ruta Aleatoria 17: 139 → 415
-  Tiempo FiboHeap: 3664us | Tiempo BinaryHeap: 7372us
-  Ruta: 139 223 415 | Costo: 2
-
-Ruta Aleatoria 18: 312 → 140
-  Tiempo FiboHeap: 10872us | Tiempo BinaryHeap: 9186us
-  Ruta: 312 441 140 | Costo: 2
-
-Ruta Aleatoria 19: 298 → 292
-  Tiempo FiboHeap: 15863us | Tiempo BinaryHeap: 12738us
-  Ruta: 298 338 292 | Costo: 3
-
-Ruta Aleatoria 20: 47 → 384
-  Tiempo FiboHeap: 12521us | Tiempo BinaryHeap: 8354us
-  Ruta: 47 200 384 | Costo: 2
-
-Ruta Aleatoria 21: 229 → 240
-  Tiempo FiboHeap: 3039us | Tiempo BinaryHeap: 1896us
-  Ruta: 229 84 240 | Costo: 2
-
-Ruta Aleatoria 22: 131 → 488
-  Tiempo FiboHeap: 11645us | Tiempo BinaryHeap: 8874us
-  Ruta: 131 470 488 | Costo: 2
-
-Ruta Aleatoria 23: 417 → 110
-  Tiempo FiboHeap: 17585us | Tiempo BinaryHeap: 13024us
-  Ruta: 417 292 110 | Costo: 3
-
-Ruta Aleatoria 24: 314 → 444
-  Tiempo FiboHeap: 5669us | Tiempo BinaryHeap: 4598us
-  Ruta: 314 250 444 | Costo: 2
-
-Ruta Aleatoria 25: 471 → 36
-  Tiempo FiboHeap: 11769us | Tiempo BinaryHeap: 8676us
-  Ruta: 471 197 36 | Costo: 2
-
-Ruta Aleatoria 26: 141 → 312
-  Tiempo FiboHeap: 5101us | Tiempo BinaryHeap: 8307us
-  Ruta: 141 416 312 | Costo: 2
-
-Ruta Aleatoria 27: 285 → 336
-  Tiempo FiboHeap: 10719us | Tiempo BinaryHeap: 9902us
-  Ruta: 285 356 336 | Costo: 2
-
-Ruta Aleatoria 28: 300 → 469
-  Tiempo FiboHeap: 6274us | Tiempo BinaryHeap: 3573us
-  Ruta: 300 256 469 | Costo: 2
-
-Ruta Aleatoria 29: 186 → 348
-  Tiempo FiboHeap: 10064us | Tiempo BinaryHeap: 10152us
-  Ruta: 186 289 348 | Costo: 2
-
-Ruta Aleatoria 30: 27 → 344
-  Tiempo FiboHeap: 1620us | Tiempo BinaryHeap: 11532us
-  Ruta: 27 440 344 | Costo: 2
-
-Ruta Aleatoria 31: 341 → 138
-  Tiempo FiboHeap: 8578us | Tiempo BinaryHeap: 8003us
-  Ruta: 341 445 138 | Costo: 2
-
-Ruta Aleatoria 32: 35 → 168
-  Tiempo FiboHeap: 5685us | Tiempo BinaryHeap: 2461us
-  Ruta: 35 84 168 | Costo: 2
-
-Ruta Aleatoria 33: 122 → 255
-  Tiempo FiboHeap: 7275us | Tiempo BinaryHeap: 4925us
-  Ruta: 122 237 255 | Costo: 2
-
-Ruta Aleatoria 34: 174 → 11
-  Tiempo FiboHeap: 16978us | Tiempo BinaryHeap: 15566us
-  Ruta: 174 49 11 | Costo: 3
-
-Ruta Aleatoria 35: 396 → 232
-  Tiempo FiboHeap: 11860us | Tiempo BinaryHeap: 15756us
-  Ruta: 396 363 443 232 | Costo: 3
-
-Ruta Aleatoria 36: 316 → 113
-  Tiempo FiboHeap: 13028us | Tiempo BinaryHeap: 15614us
-  Ruta: 316 383 113 | Costo: 3
-
-Ruta Aleatoria 37: 32 → 26
-  Tiempo FiboHeap: 16819us | Tiempo BinaryHeap: 16982us
-  Ruta: 32 319 26 | Costo: 3
-
-Ruta Aleatoria 38: 203 → 238
-  Tiempo FiboHeap: 7695us | Tiempo BinaryHeap: 9120us
-  Ruta: 203 337 238 | Costo: 2
-
-Ruta Aleatoria 39: 488 → 174
-  Tiempo FiboHeap: 7392us | Tiempo BinaryHeap: 2501us
-  Ruta: 488 337 174 | Costo: 2
-
-Ruta Aleatoria 40: 436 → 84
-  Tiempo FiboHeap: 6188us | Tiempo BinaryHeap: 5326us
-  Ruta: 436 494 84 | Costo: 2
-
-Ruta Aleatoria 41: 182 → 243
-  Tiempo FiboHeap: 5676us | Tiempo BinaryHeap: 12135us
-  Ruta: 182 342 243 | Costo: 2
-
-Ruta Aleatoria 42: 468 → 69
-  Tiempo FiboHeap: 3148us | Tiempo BinaryHeap: 12138us
-  Ruta: 468 34 69 | Costo: 2
-
-Ruta Aleatoria 43: 321 → 140
-  Tiempo FiboHeap: 8650us | Tiempo BinaryHeap: 4191us
-  Ruta: 321 394 140 | Costo: 2
-
-Ruta Aleatoria 44: 312 → 103
-  Tiempo FiboHeap: 11356us | Tiempo BinaryHeap: 12070us
-  Ruta: 312 72 103 | Costo: 3
-
-Ruta Aleatoria 45: 230 → 80
-  Tiempo FiboHeap: 7908us | Tiempo BinaryHeap: 11367us
-  Ruta: 230 11 80 | Costo: 2
-
-Ruta Aleatoria 46: 404 → 293
-  Tiempo FiboHeap: 11276us | Tiempo BinaryHeap: 14350us
-  Ruta: 404 1 293 | Costo: 2
-
-Ruta Aleatoria 47: 167 → 383
-  Tiempo FiboHeap: 1205us | Tiempo BinaryHeap: 553us
-  Ruta: 167 383 | Costo: 1
-
-Ruta Aleatoria 48: 186 → 104
-  Tiempo FiboHeap: 4212us | Tiempo BinaryHeap: 1226us
-  Ruta: 186 301 104 | Costo: 2
-
-Ruta Aleatoria 49: 318 → 486
-  Tiempo FiboHeap: 1584us | Tiempo BinaryHeap: 3758us
-  Ruta: 318 315 486 | Costo: 2
-
-Ruta Aleatoria 50: 279 → 90
-  Tiempo FiboHeap: 4303us | Tiempo BinaryHeap: 1440us
-  Ruta: 279 78 90 | Costo: 2
-
-Ruta Aleatoria 51: 297 → 330
-  Tiempo FiboHeap: 9945us | Tiempo BinaryHeap: 8572us
-  Ruta: 297 330 | Costo: 2
-
-Ruta Aleatoria 52: 306 → 195
-  Tiempo FiboHeap: 6871us | Tiempo BinaryHeap: 2386us
-  Ruta: 306 107 195 | Costo: 2
-
-Ruta Aleatoria 53: 26 → 8
-  Tiempo FiboHeap: 17261us | Tiempo BinaryHeap: 14226us
-  Ruta: 26 111 8 | Costo: 3
-
-Ruta Aleatoria 54: 329 → 40
-  Tiempo FiboHeap: 17094us | Tiempo BinaryHeap: 15838us
-  Ruta: 329 107 129 40 | Costo: 3
-
-Ruta Aleatoria 55: 440 → 490
-  Tiempo FiboHeap: 756us | Tiempo BinaryHeap: 766us
-  Ruta: 440 490 | Costo: 1
-
-Ruta Aleatoria 56: 429 → 134
-  Tiempo FiboHeap: 11172us | Tiempo BinaryHeap: 9024us
-  Ruta: 429 134 | Costo: 2
-
-Ruta Aleatoria 57: 225 → 181
-  Tiempo FiboHeap: 3154us | Tiempo BinaryHeap: 6870us
-  Ruta: 225 307 181 | Costo: 2
-
-Ruta Aleatoria 58: 225 → 365
-  Tiempo FiboHeap: 7023us | Tiempo BinaryHeap: 7817us
-  Ruta: 225 365 | Costo: 2
-
-Ruta Aleatoria 59: 433 → 210
-  Tiempo FiboHeap: 6419us | Tiempo BinaryHeap: 12824us
-  Ruta: 433 210 | Costo: 2
-
-Ruta Aleatoria 60: 274 → 326
-  Tiempo FiboHeap: 11563us | Tiempo BinaryHeap: 7165us
-  Ruta: 274 1 326 | Costo: 2
-
-Ruta Aleatoria 61: 240 → 2
-  Tiempo FiboHeap: 15858us | Tiempo BinaryHeap: 16013us
-  Ruta: 240 2 | Costo: 3
-
-Ruta Aleatoria 62: 340 → 122
-  Tiempo FiboHeap: 9275us | Tiempo BinaryHeap: 10926us
-  Ruta: 340 164 122 | Costo: 2
-
-Ruta Aleatoria 63: 150 → 7
-  Tiempo FiboHeap: 14900us | Tiempo BinaryHeap: 17232us
-  Ruta: 150 174 188 7 | Costo: 3
-
-Ruta Aleatoria 64: 9 → 370
-  Tiempo FiboHeap: 2150us | Tiempo BinaryHeap: 1615us
-  Ruta: 9 380 370 | Costo: 2
-
-Ruta Aleatoria 65: 282 → 9
-  Tiempo FiboHeap: 16164us | Tiempo BinaryHeap: 15608us
-  Ruta: 282 9 | Costo: 3
-
-Ruta Aleatoria 66: 399 → 349
-  Tiempo FiboHeap: 17374us | Tiempo BinaryHeap: 17095us
-  Ruta: 399 320 349 | Costo: 3
-
-Ruta Aleatoria 67: 265 → 214
-  Tiempo FiboHeap: 13344us | Tiempo BinaryHeap: 16858us
-  Ruta: 265 208 214 | Costo: 3
-
-Ruta Aleatoria 68: 117 → 281
-  Tiempo FiboHeap: 6042us | Tiempo BinaryHeap: 2819us
-  Ruta: 117 169 281 | Costo: 2
-
-Ruta Aleatoria 69: 353 → 143
-  Tiempo FiboHeap: 4488us | Tiempo BinaryHeap: 9089us
-  Ruta: 353 330 143 | Costo: 2
-
-Ruta Aleatoria 70: 38 → 457
-  Tiempo FiboHeap: 4136us | Tiempo BinaryHeap: 5136us
-  Ruta: 38 441 457 | Costo: 2
-
-Ruta Aleatoria 71: 441 → 30
-  Tiempo FiboHeap: 12088us | Tiempo BinaryHeap: 6832us
-  Ruta: 441 387 30 | Costo: 2
-
-Ruta Aleatoria 72: 445 → 233
-  Tiempo FiboHeap: 4326us | Tiempo BinaryHeap: 15875us
-  Ruta: 445 290 233 | Costo: 2
-
-Ruta Aleatoria 73: 254 → 312
-  Tiempo FiboHeap: 5211us | Tiempo BinaryHeap: 10816us
-  Ruta: 254 1 312 | Costo: 2
-
-Ruta Aleatoria 74: 242 → 373
-  Tiempo FiboHeap: 11671us | Tiempo BinaryHeap: 12537us
-  Ruta: 242 10 373 | Costo: 2
-
-Ruta Aleatoria 75: 416 → 495
-  Tiempo FiboHeap: 2319us | Tiempo BinaryHeap: 5050us
-  Ruta: 416 330 495 | Costo: 2
-
-Ruta Aleatoria 76: 36 → 91
-  Tiempo FiboHeap: 15583us | Tiempo BinaryHeap: 13519us
-  Ruta: 36 176 296 91 | Costo: 3
-
-Ruta Aleatoria 77: 172 → 489
-  Tiempo FiboHeap: 17761us | Tiempo BinaryHeap: 11809us
-  Ruta: 172 383 489 | Costo: 3
-
-Ruta Aleatoria 78: 230 → 191
-  Tiempo FiboHeap: 12635us | Tiempo BinaryHeap: 3207us
-  Ruta: 230 468 191 | Costo: 2
-
-Ruta Aleatoria 79: 1 → 322
-  Tiempo FiboHeap: 12352us | Tiempo BinaryHeap: 8791us
-  Ruta: 1 158 322 | Costo: 2
-
-Ruta Aleatoria 80: 496 → 478
-  Tiempo FiboHeap: 11714us | Tiempo BinaryHeap: 8525us
-  Ruta: 496 452 478 | Costo: 2
-
-Ruta Aleatoria 81: 157 → 286
-  Tiempo FiboHeap: 14143us | Tiempo BinaryHeap: 14726us
-  Ruta: 157 327 130 286 | Costo: 3
-
-Ruta Aleatoria 82: 167 → 26
-  Tiempo FiboHeap: 8083us | Tiempo BinaryHeap: 10640us
-  Ruta: 167 433 26 | Costo: 2
-
-Ruta Aleatoria 83: 263 → 240
-  Tiempo FiboHeap: 6405us | Tiempo BinaryHeap: 9854us
-  Ruta: 263 307 240 | Costo: 2
-
-Ruta Aleatoria 84: 358 → 392
-  Tiempo FiboHeap: 8170us | Tiempo BinaryHeap: 9191us
-  Ruta: 358 359 392 | Costo: 2
-
-Ruta Aleatoria 85: 120 → 304
-  Tiempo FiboHeap: 5385us | Tiempo BinaryHeap: 10922us
-  Ruta: 120 111 304 | Costo: 2
-
-Ruta Aleatoria 86: 112 → 125
-  Tiempo FiboHeap: 2700us | Tiempo BinaryHeap: 12341us
-  Ruta: 112 125 | Costo: 2
-
-Ruta Aleatoria 87: 376 → 389
-  Tiempo FiboHeap: 8147us | Tiempo BinaryHeap: 10629us
-  Ruta: 376 248 389 | Costo: 2
-
-Ruta Aleatoria 88: 39 → 319
-  Tiempo FiboHeap: 12735us | Tiempo BinaryHeap: 12602us
-  Ruta: 39 296 201 319 | Costo: 3
-
-Ruta Aleatoria 89: 193 → 72
-  Tiempo FiboHeap: 8489us | Tiempo BinaryHeap: 8440us
-  Ruta: 193 152 72 | Costo: 2
-
-Ruta Aleatoria 90: 420 → 221
-  Tiempo FiboHeap: 7646us | Tiempo BinaryHeap: 3432us
-  Ruta: 420 64 221 | Costo: 2
-
-Ruta Aleatoria 91: 248 → 447
-  Tiempo FiboHeap: 16144us | Tiempo BinaryHeap: 14461us
-  Ruta: 248 215 447 | Costo: 3
-
-Ruta Aleatoria 92: 175 → 14
-  Tiempo FiboHeap: 16271us | Tiempo BinaryHeap: 11620us
-  Ruta: 175 205 288 14 | Costo: 3
-
-Ruta Aleatoria 93: 90 → 415
-  Tiempo FiboHeap: 2250us | Tiempo BinaryHeap: 6170us
-  Ruta: 90 250 415 | Costo: 2
-
-Ruta Aleatoria 94: 452 → 97
-  Tiempo FiboHeap: 13421us | Tiempo BinaryHeap: 4506us
-  Ruta: 452 315 97 | Costo: 2
-
-Ruta Aleatoria 95: 238 → 217
-  Tiempo FiboHeap: 9171us | Tiempo BinaryHeap: 12923us
-  Ruta: 238 425 217 | Costo: 2
-
-Ruta Aleatoria 96: 227 → 231
-  Tiempo FiboHeap: 18030us | Tiempo BinaryHeap: 15498us
-  Ruta: 227 430 231 | Costo: 3
-
-Ruta Aleatoria 97: 245 → 396
-  Tiempo FiboHeap: 4532us | Tiempo BinaryHeap: 8272us
-  Ruta: 245 277 396 | Costo: 2
-
-Ruta Aleatoria 98: 331 → 90
-  Tiempo FiboHeap: 9939us | Tiempo BinaryHeap: 1873us
-  Ruta: 331 214 90 | Costo: 2
-
-Ruta Aleatoria 99: 436 → 83
-  Tiempo FiboHeap: 5896us | Tiempo BinaryHeap: 12923us
-  Ruta: 436 83 | Costo: 2
-
-Ruta Aleatoria 100: 280 → 98
-  Tiempo FiboHeap: 6725us | Tiempo BinaryHeap: 5945us
-  Ruta: 280 59 98 | Costo: 2
+Ruta Aleatoria 1: 306 → 47
+  Tiempo FiboHeap: 33130us | Tiempo BinaryHeap: 23172us
+  Ruta: 306 292 47 | Costo: 3
+
+Ruta Aleatoria 2: 147 → 405
+  Tiempo FiboHeap: 16933us | Tiempo BinaryHeap: 20679us
+  Ruta: 147 17 405 | Costo: 3
+
+Ruta Aleatoria 3: 363 → 199
+  Tiempo FiboHeap: 15051us | Tiempo BinaryHeap: 6654us
+  Ruta: 363 494 199 | Costo: 2
+
+Ruta Aleatoria 4: 491 → 7
+  Tiempo FiboHeap: 18473us | Tiempo BinaryHeap: 15909us
+  Ruta: 491 279 7 | Costo: 3
+
+Ruta Aleatoria 5: 382 → 178
+  Tiempo FiboHeap: 13781us | Tiempo BinaryHeap: 17035us
+  Ruta: 382 70 178 | Costo: 2
+
+Ruta Aleatoria 6: 371 → 252
+  Tiempo FiboHeap: 18984us | Tiempo BinaryHeap: 3471us
+  Ruta: 371 330 252 | Costo: 2
+
+Ruta Aleatoria 7: 59 → 194
+  Tiempo FiboHeap: 4265us | Tiempo BinaryHeap: 13722us
+  Ruta: 59 57 194 | Costo: 2
+
+Ruta Aleatoria 8: 218 → 54
+  Tiempo FiboHeap: 11848us | Tiempo BinaryHeap: 13552us
+  Ruta: 218 251 54 | Costo: 2
+
+Ruta Aleatoria 9: 263 → 1
+  Tiempo FiboHeap: 16856us | Tiempo BinaryHeap: 14007us
+  Ruta: 263 435 1 | Costo: 3
+
+Ruta Aleatoria 10: 70 → 203
+  Tiempo FiboHeap: 5068us | Tiempo BinaryHeap: 3244us
+  Ruta: 70 352 203 | Costo: 2
+
+Ruta Aleatoria 11: 105 → 245
+  Tiempo FiboHeap: 16206us | Tiempo BinaryHeap: 20390us
+  Ruta: 105 314 382 245 | Costo: 3
+
+Ruta Aleatoria 12: 467 → 433
+  Tiempo FiboHeap: 15596us | Tiempo BinaryHeap: 13239us
+  Ruta: 467 53 433 | Costo: 2
+
+Ruta Aleatoria 13: 154 → 235
+  Tiempo FiboHeap: 6541us | Tiempo BinaryHeap: 3588us
+  Ruta: 154 211 235 | Costo: 2
+
+Ruta Aleatoria 14: 324 → 15
+  Tiempo FiboHeap: 6640us | Tiempo BinaryHeap: 5529us
+  Ruta: 324 300 15 | Costo: 2
+
+Ruta Aleatoria 15: 251 → 181
+  Tiempo FiboHeap: 10091us | Tiempo BinaryHeap: 9882us
+  Ruta: 251 471 181 | Costo: 2
+
+Ruta Aleatoria 16: 106 → 108
+  Tiempo FiboHeap: 8495us | Tiempo BinaryHeap: 11534us
+  Ruta: 106 422 108 | Costo: 2
+
+Ruta Aleatoria 17: 367 → 294
+  Tiempo FiboHeap: 2586us | Tiempo BinaryHeap: 13753us
+  Ruta: 367 294 | Costo: 2
+
+Ruta Aleatoria 18: 280 → 290
+  Tiempo FiboHeap: 7988us | Tiempo BinaryHeap: 9017us
+  Ruta: 280 445 290 | Costo: 2
+
+Ruta Aleatoria 19: 303 → 397
+  Tiempo FiboHeap: 6825us | Tiempo BinaryHeap: 10573us
+  Ruta: 303 4 397 | Costo: 2
+
+Ruta Aleatoria 20: 43 → 349
+  Tiempo FiboHeap: 14774us | Tiempo BinaryHeap: 13641us
+  Ruta: 43 46 349 | Costo: 2
+
+Ruta Aleatoria 21: 83 → 404
+  Tiempo FiboHeap: 3166us | Tiempo BinaryHeap: 15928us
+  Ruta: 83 231 404 | Costo: 2
+
+Ruta Aleatoria 22: 271 → 372
+  Tiempo FiboHeap: 16276us | Tiempo BinaryHeap: 13326us
+  Ruta: 271 132 372 | Costo: 3
+
+Ruta Aleatoria 23: 156 → 459
+  Tiempo FiboHeap: 6054us | Tiempo BinaryHeap: 12257us
+  Ruta: 156 234 459 | Costo: 2
+
+Ruta Aleatoria 24: 270 → 406
+  Tiempo FiboHeap: 2065us | Tiempo BinaryHeap: 6766us
+  Ruta: 270 70 406 | Costo: 2
+
+Ruta Aleatoria 25: 495 → 321
+  Tiempo FiboHeap: 2479us | Tiempo BinaryHeap: 5441us
+  Ruta: 495 439 321 | Costo: 2
+
+Ruta Aleatoria 26: 94 → 420
+  Tiempo FiboHeap: 4481us | Tiempo BinaryHeap: 2959us
+  Ruta: 94 3 420 | Costo: 2
+
+Ruta Aleatoria 27: 1 → 425
+  Tiempo FiboHeap: 13042us | Tiempo BinaryHeap: 7395us
+  Ruta: 1 249 425 | Costo: 2
+
+Ruta Aleatoria 28: 95 → 380
+  Tiempo FiboHeap: 756us | Tiempo BinaryHeap: 378us
+  Ruta: 95 380 | Costo: 1
+
+Ruta Aleatoria 29: 100 → 226
+  Tiempo FiboHeap: 6566us | Tiempo BinaryHeap: 4111us
+  Ruta: 100 121 226 | Costo: 2
+
+Ruta Aleatoria 30: 70 → 277
+  Tiempo FiboHeap: 11846us | Tiempo BinaryHeap: 11764us
+  Ruta: 70 332 277 | Costo: 2
+
+Ruta Aleatoria 31: 134 → 374
+  Tiempo FiboHeap: 7391us | Tiempo BinaryHeap: 2096us
+  Ruta: 134 27 374 | Costo: 2
+
+Ruta Aleatoria 32: 21 → 294
+  Tiempo FiboHeap: 733us | Tiempo BinaryHeap: 555us
+  Ruta: 21 294 | Costo: 1
+
+Ruta Aleatoria 33: 251 → 224
+  Tiempo FiboHeap: 14079us | Tiempo BinaryHeap: 17359us
+  Ruta: 251 413 224 | Costo: 3
+
+Ruta Aleatoria 34: 186 → 199
+  Tiempo FiboHeap: 1835us | Tiempo BinaryHeap: 8027us
+  Ruta: 186 341 199 | Costo: 2
+
+Ruta Aleatoria 35: 490 → 158
+  Tiempo FiboHeap: 14490us | Tiempo BinaryHeap: 16063us
+  Ruta: 490 260 158 | Costo: 3
+
+Ruta Aleatoria 36: 251 → 463
+  Tiempo FiboHeap: 7918us | Tiempo BinaryHeap: 8704us
+  Ruta: 251 54 463 | Costo: 2
+
+Ruta Aleatoria 37: 96 → 488
+  Tiempo FiboHeap: 20927us | Tiempo BinaryHeap: 22573us
+  Ruta: 96 421 443 488 | Costo: 3
+
+Ruta Aleatoria 38: 167 → 14
+  Tiempo FiboHeap: 16156us | Tiempo BinaryHeap: 11606us
+  Ruta: 167 169 14 | Costo: 2
+
+Ruta Aleatoria 39: 382 → 388
+  Tiempo FiboHeap: 4508us | Tiempo BinaryHeap: 25376us
+  Ruta: 382 141 388 | Costo: 2
+
+Ruta Aleatoria 40: 347 → 340
+  Tiempo FiboHeap: 19819us | Tiempo BinaryHeap: 13979us
+  Ruta: 347 436 340 | Costo: 2
+
+Ruta Aleatoria 41: 194 → 264
+  Tiempo FiboHeap: 11037us | Tiempo BinaryHeap: 9794us
+  Ruta: 194 463 264 | Costo: 2
+
+Ruta Aleatoria 42: 311 → 185
+  Tiempo FiboHeap: 14878us | Tiempo BinaryHeap: 11089us
+  Ruta: 311 33 185 | Costo: 2
+
+Ruta Aleatoria 43: 211 → 15
+  Tiempo FiboHeap: 30244us | Tiempo BinaryHeap: 22310us
+  Ruta: 211 21 411 15 | Costo: 3
+
+Ruta Aleatoria 44: 59 → 422
+  Tiempo FiboHeap: 3597us | Tiempo BinaryHeap: 5557us
+  Ruta: 59 42 422 | Costo: 2
+
+Ruta Aleatoria 45: 351 → 204
+  Tiempo FiboHeap: 4201us | Tiempo BinaryHeap: 20066us
+  Ruta: 351 185 204 | Costo: 2
+
+Ruta Aleatoria 46: 70 → 198
+  Tiempo FiboHeap: 18134us | Tiempo BinaryHeap: 10585us
+  Ruta: 70 34 198 | Costo: 2
+
+Ruta Aleatoria 47: 214 → 308
+  Tiempo FiboHeap: 2324us | Tiempo BinaryHeap: 15008us
+  Ruta: 214 403 308 | Costo: 2
+
+Ruta Aleatoria 48: 219 → 175
+  Tiempo FiboHeap: 13520us | Tiempo BinaryHeap: 8958us
+  Ruta: 219 205 175 | Costo: 2
+
+Ruta Aleatoria 49: 247 → 413
+  Tiempo FiboHeap: 2965us | Tiempo BinaryHeap: 19861us
+  Ruta: 247 326 413 | Costo: 2
+
+Ruta Aleatoria 50: 58 → 197
+  Tiempo FiboHeap: 20536us | Tiempo BinaryHeap: 21944us
+  Ruta: 58 389 242 197 | Costo: 3
+
+Ruta Aleatoria 51: 47 → 423
+  Tiempo FiboHeap: 21700us | Tiempo BinaryHeap: 27000us
+  Ruta: 47 174 423 | Costo: 3
+
+Ruta Aleatoria 52: 471 → 104
+  Tiempo FiboHeap: 9771us | Tiempo BinaryHeap: 16130us
+  Ruta: 471 327 104 | Costo: 2
+
+Ruta Aleatoria 53: 324 → 377
+  Tiempo FiboHeap: 5269us | Tiempo BinaryHeap: 5291us
+  Ruta: 324 377 | Costo: 2
+
+Ruta Aleatoria 54: 214 → 395
+  Tiempo FiboHeap: 2184us | Tiempo BinaryHeap: 6493us
+  Ruta: 214 163 395 | Costo: 2
+
+Ruta Aleatoria 55: 261 → 54
+  Tiempo FiboHeap: 16328us | Tiempo BinaryHeap: 21718us
+  Ruta: 261 463 54 | Costo: 2
+
+Ruta Aleatoria 56: 500 → 292
+  Tiempo FiboHeap: 693us | Tiempo BinaryHeap: 556us
+  Ruta: 500 292 | Costo: 1
+
+Ruta Aleatoria 57: 61 → 68
+  Tiempo FiboHeap: 9847us | Tiempo BinaryHeap: 17794us
+  Ruta: 61 68 | Costo: 2
+
+Ruta Aleatoria 58: 89 → 493
+  Tiempo FiboHeap: 14606us | Tiempo BinaryHeap: 6445us
+  Ruta: 89 240 493 | Costo: 2
+
+Ruta Aleatoria 59: 123 → 492
+  Tiempo FiboHeap: 6370us | Tiempo BinaryHeap: 5370us
+  Ruta: 123 341 492 | Costo: 2
+
+Ruta Aleatoria 60: 39 → 333
+  Tiempo FiboHeap: 33575us | Tiempo BinaryHeap: 25656us
+  Ruta: 39 466 345 333 | Costo: 3
+
+Ruta Aleatoria 61: 470 → 138
+  Tiempo FiboHeap: 1877us | Tiempo BinaryHeap: 12291us
+  Ruta: 470 259 138 | Costo: 2
+
+Ruta Aleatoria 62: 327 → 79
+  Tiempo FiboHeap: 18215us | Tiempo BinaryHeap: 7588us
+  Ruta: 327 225 79 | Costo: 2
+
+Ruta Aleatoria 63: 315 → 219
+  Tiempo FiboHeap: 13458us | Tiempo BinaryHeap: 8722us
+  Ruta: 315 345 219 | Costo: 2
+
+Ruta Aleatoria 64: 469 → 146
+  Tiempo FiboHeap: 17964us | Tiempo BinaryHeap: 24522us
+  Ruta: 469 337 146 | Costo: 3
+
+Ruta Aleatoria 65: 79 → 213
+  Tiempo FiboHeap: 19718us | Tiempo BinaryHeap: 6801us
+  Ruta: 79 255 213 | Costo: 2
+
+Ruta Aleatoria 66: 304 → 195
+  Tiempo FiboHeap: 9801us | Tiempo BinaryHeap: 8053us
+  Ruta: 304 160 195 | Costo: 2
+
+Ruta Aleatoria 67: 455 → 230
+  Tiempo FiboHeap: 21681us | Tiempo BinaryHeap: 11788us
+  Ruta: 455 157 230 | Costo: 3
+
+Ruta Aleatoria 68: 212 → 103
+  Tiempo FiboHeap: 15982us | Tiempo BinaryHeap: 18066us
+  Ruta: 212 377 103 | Costo: 3
+
+Ruta Aleatoria 69: 53 → 126
+  Tiempo FiboHeap: 3631us | Tiempo BinaryHeap: 11176us
+  Ruta: 53 154 126 | Costo: 2
+
+Ruta Aleatoria 70: 152 → 350
+  Tiempo FiboHeap: 9909us | Tiempo BinaryHeap: 10722us
+  Ruta: 152 452 350 | Costo: 2
+
+Ruta Aleatoria 71: 68 → 109
+  Tiempo FiboHeap: 15286us | Tiempo BinaryHeap: 18757us
+  Ruta: 68 5 219 109 | Costo: 3
+
+Ruta Aleatoria 72: 158 → 389
+  Tiempo FiboHeap: 6681us | Tiempo BinaryHeap: 5607us
+  Ruta: 158 321 389 | Costo: 2
+
+Ruta Aleatoria 73: 362 → 300
+  Tiempo FiboHeap: 5228us | Tiempo BinaryHeap: 11215us
+  Ruta: 362 15 300 | Costo: 2
+
+Ruta Aleatoria 74: 266 → 11
+  Tiempo FiboHeap: 2862us | Tiempo BinaryHeap: 2222us
+  Ruta: 266 485 11 | Costo: 2
+
+Ruta Aleatoria 75: 312 → 472
+  Tiempo FiboHeap: 1996us | Tiempo BinaryHeap: 2429us
+  Ruta: 312 259 472 | Costo: 2
+
+Ruta Aleatoria 76: 233 → 387
+  Tiempo FiboHeap: 2910us | Tiempo BinaryHeap: 1857us
+  Ruta: 233 436 387 | Costo: 2
+
+Ruta Aleatoria 77: 337 → 353
+  Tiempo FiboHeap: 16359us | Tiempo BinaryHeap: 14089us
+  Ruta: 337 97 292 353 | Costo: 3
+
+Ruta Aleatoria 78: 339 → 363
+  Tiempo FiboHeap: 17918us | Tiempo BinaryHeap: 15574us
+  Ruta: 339 287 363 | Costo: 3
+
+Ruta Aleatoria 79: 83 → 282
+  Tiempo FiboHeap: 16169us | Tiempo BinaryHeap: 19149us
+  Ruta: 83 85 251 282 | Costo: 3
+
+Ruta Aleatoria 80: 397 → 221
+  Tiempo FiboHeap: 6926us | Tiempo BinaryHeap: 13340us
+  Ruta: 397 34 221 | Costo: 2
+
+Ruta Aleatoria 81: 43 → 297
+  Tiempo FiboHeap: 5527us | Tiempo BinaryHeap: 11247us
+  Ruta: 43 411 297 | Costo: 2
+
+Ruta Aleatoria 82: 116 → 413
+  Tiempo FiboHeap: 18147us | Tiempo BinaryHeap: 20510us
+  Ruta: 116 319 87 413 | Costo: 3
+
+Ruta Aleatoria 83: 453 → 423
+  Tiempo FiboHeap: 2316us | Tiempo BinaryHeap: 15023us
+  Ruta: 453 186 423 | Costo: 2
+
+Ruta Aleatoria 84: 11 → 334
+  Tiempo FiboHeap: 16666us | Tiempo BinaryHeap: 18004us
+  Ruta: 11 170 334 | Costo: 3
+
+Ruta Aleatoria 85: 220 → 391
+  Tiempo FiboHeap: 14262us | Tiempo BinaryHeap: 14451us
+  Ruta: 220 290 391 | Costo: 3
+
+Ruta Aleatoria 86: 216 → 185
+  Tiempo FiboHeap: 10294us | Tiempo BinaryHeap: 8470us
+  Ruta: 216 302 185 | Costo: 2
+
+Ruta Aleatoria 87: 85 → 232
+  Tiempo FiboHeap: 565us | Tiempo BinaryHeap: 581us
+  Ruta: 85 232 | Costo: 1
+
+Ruta Aleatoria 88: 327 → 87
+  Tiempo FiboHeap: 1071us | Tiempo BinaryHeap: 364us
+  Ruta: 327 87 | Costo: 1
+
+Ruta Aleatoria 89: 436 → 465
+  Tiempo FiboHeap: 17437us | Tiempo BinaryHeap: 17373us
+  Ruta: 436 289 465 | Costo: 3
+
+Ruta Aleatoria 90: 2 → 467
+  Tiempo FiboHeap: 3150us | Tiempo BinaryHeap: 2967us
+  Ruta: 2 443 467 | Costo: 2
+
+Ruta Aleatoria 91: 260 → 198
+  Tiempo FiboHeap: 10503us | Tiempo BinaryHeap: 7626us
+  Ruta: 260 198 | Costo: 2
+
+Ruta Aleatoria 92: 399 → 409
+  Tiempo FiboHeap: 14560us | Tiempo BinaryHeap: 3759us
+  Ruta: 399 490 409 | Costo: 2
+
+Ruta Aleatoria 93: 193 → 47
+  Tiempo FiboHeap: 18232us | Tiempo BinaryHeap: 16508us
+  Ruta: 193 261 47 | Costo: 3
+
+Ruta Aleatoria 94: 450 → 248
+  Tiempo FiboHeap: 11854us | Tiempo BinaryHeap: 9997us
+  Ruta: 450 218 248 | Costo: 2
+
+Ruta Aleatoria 95: 288 → 418
+  Tiempo FiboHeap: 18559us | Tiempo BinaryHeap: 15829us
+  Ruta: 288 342 418 | Costo: 3
+
+Ruta Aleatoria 96: 382 → 66
+  Tiempo FiboHeap: 4210us | Tiempo BinaryHeap: 12442us
+  Ruta: 382 58 66 | Costo: 2
+
+Ruta Aleatoria 97: 104 → 352
+  Tiempo FiboHeap: 20028us | Tiempo BinaryHeap: 15797us
+  Ruta: 104 488 352 | Costo: 3
+
+Ruta Aleatoria 98: 81 → 185
+  Tiempo FiboHeap: 4690us | Tiempo BinaryHeap: 5271us
+  Ruta: 81 391 185 | Costo: 2
+
+Ruta Aleatoria 99: 4 → 381
+  Tiempo FiboHeap: 5636us | Tiempo BinaryHeap: 2365us
+  Ruta: 4 279 381 | Costo: 2
+
+Ruta Aleatoria 100: 384 → 138
+  Tiempo FiboHeap: 11961us | Tiempo BinaryHeap: 3973us
+  Ruta: 384 288 138 | Costo: 2
 
