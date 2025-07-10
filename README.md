@@ -135,3 +135,11 @@ Permite mejorar el rendimiento de Dijkstra cuando hay muchos `decrease-key`, com
 
 ---
 
+##  Referencias
+
+
+
+* msambol. (n.d.). fibonacci_heap.py [Source code]. GitHub. Retrieved July 7, 2025, from https://github.com/msambol/dsa/blob/master/data_structures/fibonacci_heap.py
+
+
+---
